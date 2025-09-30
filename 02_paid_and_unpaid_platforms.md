@@ -15,7 +15,7 @@ There are some communities you can contribute to by developing code, improving d
 | **Open Bioinformatics Foundation (OBF)** | A volunteer-run organization supporting open-source bioinformatics software. | Work on projects like BioRuby, BioSQL, and more. | [OBF](https://www.open-bio.org/) |
 | **Biopython** | Python tools for sequence analysis, structural biology, and more. | Develop modules, write tutorials, fix bugs. | [Biopython](https://biopython.org/) ([Contribute](https://biopython.org/wiki/Active_projects)) |
 | **Galaxy Project** | A web-based platform for biomedical research workflows. | Develop tools, enhance UI, contribute training materials. | [Galaxy Project](https://galaxyproject.org/) ([Contribute](https://galaxyproject.org/community/contributing/)) |
-| **Bioconductor** | R-based tools for genomic data analysis. | Develop packages, improve documentation, assist in software maintenance. | [Bioconductor](https://www.bioconductor.org/) |
+| **Bioconductor** | R-based tools for biological data analysis. | Develop packages, improve documentation, assist in software maintenance. | [Bioconductor](https://www.bioconductor.org/) |
 | **Jupyter** | Interactive notebooks for data science and bioinformatics. | Develop extensions, improve UI, enhance documentation. | [Jupyter](https://jupyter.org/) ([Contribute](https://docs.jupyter.org/en/latest/contributing/content-contributor.html)) |
 | **Arvados** | Platform for managing large-scale genomic and biomedical data. | Develop new features, improve scalability, enhance documentation. | [Arvados](https://arvados.org/) ([Contribute](https://dev.arvados.org/projects/arvados/wiki/How_to_Contribute)) |
 
@@ -53,5 +53,6 @@ Here are some excellent articles and tutorials to help you get started with cont
 - Join their community, explore documentation, ASK QUESTIONS and start with small contributions.
 - Engage with mentors and other contributors.
 - Apply for a paid internship if you’re looking to earn and learn at the same time.
+
 
 
