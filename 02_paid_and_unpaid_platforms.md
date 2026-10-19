@@ -44,8 +44,8 @@ Here are some excellent articles and tutorials to help you get started with cont
 
 ### 📝 Articles & Guides
 - [Beginner’s Guide to Open Source Contribution](https://opensource.guide/how-to-contribute/)
+- [Get Comfortable with Open Source Contribution](https://www.firsttimersonly.com/)
 - [How to Get Started with Open Source in Bioinformatics](https://www.linkedin.com/pulse/how-i-landed-my-first-international-remote-role-chioma-onyido-mcesf)
-
 ---
 
 ## Next Steps
