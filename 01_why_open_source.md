@@ -1,4 +1,4 @@
-# 🌍 Why Open Source in Bioinformatics?
+# Why Open Source in Bioinformatics?
 
 If you’re just starting out in bioinformatics, open source might feel intimidating.  
 But the truth is (from my experience): **open source is one of the easiest doors into the field**, and it doesn’t require you to already be an expert.
