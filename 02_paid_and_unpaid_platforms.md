@@ -1,6 +1,6 @@
 # Best Open-Source Platforms for Bioinformatics Contributions (Paid & Unpaid)
 
-## 🌍 Why Contribute to Open-Source?
+## Why Contribute to Open-Source?
 Contributing to open-source bioinformatics projects helps build practical experience, network with experts, and improve coding and data analysis skills. Below is a curated list of **top open-source platforms**, categorized into **unpaid volunteer contributions** and **paid internships**.
 
 ---
